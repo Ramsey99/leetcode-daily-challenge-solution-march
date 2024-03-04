@@ -1,4 +1,4 @@
-# Leetcode_Dailycoding_March
+# Leetcode_Dailycoding_Challenge_March
 
 Solutions of LeetCode Daily Problems for March 2024 in Java
 
