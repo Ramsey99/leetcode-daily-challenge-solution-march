@@ -6,6 +6,6 @@ Solutions of LeetCode Daily Problems for March 2024 in Java
 
 | Category              	| Problem                       								| Solution                        							| Difficulty 						|
 |-------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------|
-|`Array`, `Greedy`     		|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)		|[Solution.java](leetcode_dailycode_march/2864.MaximumOddBinaryNumber/Solution.java)	|<img src="https://img.shields.io/badge/-Easy-green" /> |
+|`Array`, `Greedy`     		|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)		|[Solution.java](2864.MaximumOddBinaryNumber/Solution.java)	|<img src="https://img.shields.io/badge/-Easy-green" /> |
 
 	
